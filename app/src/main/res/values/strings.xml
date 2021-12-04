@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Swipe-able Tabs</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="tab_monday">Mon</string>
+    <string name="tab_tuesday">Tue</string>
+    <string name="tab_wednesday">Wed</string>
+    <string name="tab_thursday">Thu</string>
+    <string name="tab_friday">Fri</string>
+</resources>
